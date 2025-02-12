@@ -9,7 +9,7 @@ const geistSans = Geist({
 const poppins = Poppins({
   variable: "--font-poppins",
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700"], // Escolha os pesos que deseja usar
+  weight: ["400", "500", "600", "700"], 
 });
 
 export const metadata = {
